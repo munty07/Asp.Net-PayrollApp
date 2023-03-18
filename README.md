@@ -1,7 +1,9 @@
 # Asp.Net-PayrollApp 2023
 
 Technologies: Visual Studio 2015, ASP.NET
+
 Languages: C#
+
 Database: Oracle
 
 This project is a payroll web application that has the following functionalities:
